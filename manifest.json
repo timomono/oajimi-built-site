@@ -1,0 +1,88 @@
+{
+    "name": "お結び",
+    "short_name": "お結び",
+    "start_url": "/app/",
+    "id": ".",
+    "display": "standalone",
+    "background_color": "#827717",
+    "theme_color": "#827717",
+    "description": "Reducing food waste by matching stores and customers.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "screenshots": [
+        {
+            "src": "/app/screenshots/screenshot_mobile_register_store.webp",
+            "sizes": "720x1520",
+            "type": "image/webp",
+            "form_factor": "narrow",
+            "platform": "narrow",
+            "label": "Register store screen"
+        },
+        {
+            "src": "/app/screenshots/screenshot_mobile_login.webp",
+            "sizes": "720x1520",
+            "type": "image/webp",
+            "form_factor": "narrow",
+            "platform": "narrow",
+            "label": "Login screen"
+        },
+        {
+            "src": "/app/screenshots/screenshot_wide_register_store.webp",
+            "sizes": "2940x1598",
+            "type": "image/webp",
+            "form_factor": "wide",
+            "platform": "wide",
+            "label": "Register store screen"
+        },
+        {
+            "src": "/app/screenshots/screenshot_wide_login.webp",
+            "sizes": "2940x1598",
+            "type": "image/webp",
+            "form_factor": "wide",
+            "platform": "wide",
+            "label": "Login screen"
+        }
+    ],
+    "icons": [
+        {
+            "src": "/app/icons/icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "/app/icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/app/icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/app/icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/app/icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/app/icons/Icon-monochrome-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "monochrome"
+        },
+        {
+            "src": "/app/icons/Icon-monochrome-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "monochrome"
+        }
+    ]
+}
