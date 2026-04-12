@@ -1,4 +1,0 @@
-#nothing here -_-
-
-User-agent: *
-Allow: /
