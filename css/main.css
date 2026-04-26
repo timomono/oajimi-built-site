@@ -467,11 +467,9 @@
   background-color: var(--color-surface);
   color: var(--color-on-surface);
 }
-:root {
+:root,body,main {
   height: 100%;
-}
-body {
-  height: 100%;
+  width: 100%;
 }
 h1 {
   padding-top: 0.7em;
@@ -495,6 +493,15 @@ body::selection {
   background-color: var(--md-sys-color-primary);
   color: var(--md-sys-color-on-primary);
   text-decoration: underline;
+}
+.button {
+  background-color: var(--md-sys-color-primary);
+  color: var(--md-sys-color-on-primary);
+  padding: .5em;
+}
+.wrapped-video {
+  max-height: 100vh;
+  max-width: 100vw;
 }
 @property --tw-blur {
   syntax: "*";
