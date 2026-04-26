@@ -498,6 +498,11 @@ body::selection {
   background-color: var(--md-sys-color-primary);
   color: var(--md-sys-color-on-primary);
   padding: .5em;
+  cursor: pointer;
+}
+.button:active {
+  background-color: var(--md-sys-color-secondary);
+  color: var(--md-sys-color-on-secondary);
 }
 .wrapped-video {
   max-height: 100vh;
