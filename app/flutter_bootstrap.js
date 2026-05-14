@@ -40,6 +40,6 @@ _flutter.loader.load({
 //  config: { renderer: 'html' },
   serviceWorkerSettings: {
     // Unquoted on purpose: Flutter substitutes a JS literal (string or null).
-    serviceWorkerVersion: "1703207889" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */
+    serviceWorkerVersion: "2596248318" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */
   }
 });
