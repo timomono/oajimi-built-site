@@ -2,8 +2,8 @@
     X-Robots-Tag: noindex
     X-Frame-Options: DENY
 
-main-*.js
+/app/main-*.js
     Cache-Control: max-age=31536000
 
-bootstrap-*.js
+/app/bootstrap-*.js
     Cache-Control: max-age=31536000

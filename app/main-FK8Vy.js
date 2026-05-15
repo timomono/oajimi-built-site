@@ -44729,7 +44729,7 @@ $S:2}
 A.biv.prototype={
 $1(a){var s=A.fd().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/42d3d75a56efe1a2e9902f52dc8006099c45d937/":s)+a},
 $S:10}
 A.a7i.prototype={
 gt(a){var s=this.a
@@ -161625,9 +161625,9 @@ s($,"c97","atT",()=>A.bWG())
 s($,"c8L","bHf",()=>A.cM(["H1","H2","H3","H4","H5","H6","H7","H8","BR","B","I","STRONG","EM","A","PRE","CODE","IMG","TT","DIV","INS","DEL","SUP","SUB","P","OL","UL","TABLE","THEAD","TBODY","TFOOT","BLOCKQUOTE","DL","DT","DD","KBD","Q","SAMP","VAR","HR","RUBY","RT","RP","LI","TR","TD","TH","S","STRIKE","SUMMARY","DETAILS","CAPTION","FIGURE","FIGCAPTION","ABBR","BDO","CITE","DFN","MARK","SMALL","SPAN","TIME","WBR"],t.N))
 s($,"c8N","bHh",()=>A.cM(["abbr","accept","accept-charset","accesskey","action","align","alt","aria-describedby","aria-hidden","aria-label","aria-labelledby","axis","border","cellpadding","cellspacing","char","charoff","charset","checked","clear","cols","colspan","color","compact","coords","datetime","dir","disabled","enctype","for","frame","headers","height","hreflang","hspace","ismap","label","lang","maxlength","media","method","multiple","name","nohref","noshade","nowrap","open","prompt","readonly","rel","rev","rows","rowspan","rules","scope","selected","shape","size","span","start","summary","tabindex","target","title","type","usemap","valign","value","vspace","width","itemprop"],t.N))
 s($,"cbj","btf",()=>new A.aZY())
-s($,"cbm","bJ_",()=>A.byI("db50e20168",null,null,"Flutter","3.41.6 (stable) - Git hash db50e20168 - Git URL https://github.com/flutter/flutter.git",null,"3.41.6 (stable)"))
+s($,"cbm","bJ_",()=>A.byI("00b0c91f06",null,null,"Flutter","3.41.9 (stable) - Git hash 00b0c91f06 - Git URL https://github.com/flutter/flutter.git",null,"3.41.9 (stable)"))
 s($,"cbb","bIS",()=>{var q=null
-return A.byI(q,q,q,"Dart",q,q,"3.11.4")})
+return A.byI(q,q,q,"Dart",q,q,"3.11.5")})
 s($,"c55","a_p",()=>new A.a5P())
 s($,"c68","bsx",()=>new A.Pg())
 s($,"c69","bFH",()=>{var q=null,p=A.bX4(B.cR).qS(""),o=p.length
