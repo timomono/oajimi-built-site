@@ -1,0 +1,10 @@
+/*
+    X-Robots-Tag: noindex
+    X-Frame-Options: DENY
+    Cross-Origin-Opener-Policy: same-origin-allow-popups
+
+/app/main-*.js
+    Cache-Control: max-age=31536000
+
+/app/bootstrap-*.js
+    Cache-Control: max-age=31536000
