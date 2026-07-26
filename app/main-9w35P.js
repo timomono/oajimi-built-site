@@ -163680,4 +163680,6 @@ return}var s=document.scripts
 function onLoad(b){for(var q=0;q<s.length;++q){s[q].removeEventListener("load",onLoad,false)}a(b.target)}for(var r=0;r<s.length;++r){s[r].addEventListener("load",onLoad,false)}})(function(a){v.currentScript=a
 var s=A.bn5
 if(typeof dartMainRunner==="function"){dartMainRunner(s,[])}else{s([])}})})()
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="fde49237-3add-57fb-b95f-587dc0f4f203")}catch(e){}}();
 //# sourceMappingURL=main.dart.js.map
+//# debugId=fde49237-3add-57fb-b95f-587dc0f4f203
