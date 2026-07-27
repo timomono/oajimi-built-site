@@ -1,9 +1,9 @@
 importScripts("https://www.gstatic.com/firebasejs/10.5.2/firebase-app-compat.js");
 importScripts("https://www.gstatic.com/firebasejs/10.5.2/firebase-messaging-compat.js");
-importScripts("PpoHX.js");
+importScripts("TaiIM.js");
 
 
-firebase.initializeApp(firebaseSdkConfig); // From PpoHX.js
+firebase.initializeApp(firebaseSdkConfig); // From TaiIM.js
 
 const messaging = firebase.messaging();
 
