@@ -26,7 +26,7 @@
 </head>
 
 <body style="width: 100%;height: 100%; margin: 0;">
-    <script src="bootstrap-8FrWn.js" async>
+    <script src="bootstrap-TB8RT.js" async>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', function () {
                 navigator.serviceWorker.register('firebase-messaging-sw.js', {
@@ -84,7 +84,7 @@
             if (!isGMapLoaded) {
                 isGMapLoaded = true;
                 const sc = document.createElement("script");
-                sc.src = `https://maps.googleapis.com/maps/api/js?key=${key}&v=quarterly`;
+                sc.src = `https://maps.googleapis.com/maps/api/js?key=${key}&v=quarterly&loading=async`;
                 sc.async = true;
                 document.head.appendChild(sc);
                 console.log("Google map loaded with api key.");
