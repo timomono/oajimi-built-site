@@ -1,9 +1,9 @@
 importScripts("https://www.gstatic.com/firebasejs/10.5.2/firebase-app-compat.js");
 importScripts("https://www.gstatic.com/firebasejs/10.5.2/firebase-messaging-compat.js");
-importScripts("yhB1N.js");
+importScripts("6fKuK.js");
 
 
-firebase.initializeApp(firebaseSdkConfig); // From yhB1N.js
+firebase.initializeApp(firebaseSdkConfig); // From 6fKuK.js
 
 const messaging = firebase.messaging();
 
