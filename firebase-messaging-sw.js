@@ -1,9 +1,9 @@
 importScripts("https://www.gstatic.com/firebasejs/10.5.2/firebase-app-compat.js");
 importScripts("https://www.gstatic.com/firebasejs/10.5.2/firebase-messaging-compat.js");
-importScripts("BJdsp.js");
+importScripts("WcHzZ.js");
 
 
-firebase.initializeApp(firebaseSdkConfig); // From BJdsp.js
+firebase.initializeApp(firebaseSdkConfig); // From WcHzZ.js
 
 const messaging = firebase.messaging();
 
